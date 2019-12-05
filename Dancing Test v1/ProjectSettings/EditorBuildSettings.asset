@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/Scenes/Test Scene 01.unity
+    guid: 56b40726d4e9cbd4c98db791602d0aeb
+  - enabled: 0
+    path: Assets/Oculus/SampleFramework/Usage/AvatarGrab.unity
+    guid: 941c413af7c367d40aab0725f5a59530
+  - enabled: 1
+    path: Assets/Scenes/Test Scene 03.unity
+    guid: f4b7bc1095ce58a478c14226b1f38973
+  m_configObjects: {}
